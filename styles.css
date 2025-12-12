@@ -1,0 +1,50 @@
+body{
+    font-size: 22px;
+}
+
+a{
+    text-decoration: none;
+    color: darkcyan;
+}
+
+a:hover{
+    color: burlywood;
+}
+
+header{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 span{
+    color: darkcyan;
+}
+
+header dl dt{
+    font-weight: bold;
+}
+
+.spaced-list dt dd{
+    margin-bottom: 10px;
+}
+
+.Instructions img{
+    width: 350px;
+    height: 280px;
+}
+
+.serving-suggestion img{
+    width: 250px;
+    height: 200px;
+    margin: 20px;
+
+}
+
+footer{
+    color: black;
+    font-size: 25px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
